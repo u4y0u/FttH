@@ -1,8 +1,11 @@
 # FttH
-FttH : NRO et PMZ
+FttH : NRO et PMZ (France)
 
-FttH France - carte des NRO (Nœud Raccordement Optique) et PMZ (Point de Mutualisation de Zone)
+2 fichiers au format .geoson - NRO.geoson et PMZ.geoson.
 
+FttH France - carte des emplacements des NRO (Nœud Raccordement Optique) et des PMZ (Point de Mutualisation de Zone).
+
+jeu de données extrait de OpenStreetMap® - ensemble de données ouvertes, disponibles sous la licence libre Open Data Commons Open Database License (ODbL) accordée par la Fondation OpenStreetMap (OSMF).
 
 Aperçu:
 
