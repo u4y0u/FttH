@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-01-18T09:33:02Z",
+  "timestamp": "2020-01-18T17:23:01Z",
   "features": [
     {
       "type": "Feature",
@@ -4636,6 +4636,356 @@
         ]
       },
       "id": "node/7124208886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7140798485",
+        "description": "PM de rattachement : SRO-BPI-4725516 (PM18),\n\nZM2124-5620",
+        "location": "outdoor",
+        "operator": "SFR",
+        "ref": "PB09",
+        "support": "pole",
+        "survey:date": "2020-01-18",
+        "telecom": "distribution_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9132202,
+          47.9310643
+        ]
+      },
+      "id": "node/7140798485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7140798486",
+        "description": "PM de rattachement : SRO-BPI-4725516 (PM18),\n\nZM2124-5719\nZM2124-5708",
+        "location": "outdoor",
+        "operator": "SFR",
+        "ref": "PB11",
+        "support": "pole",
+        "survey:date": "2020-01-18",
+        "telecom": "distribution_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9132128,
+          47.9315688
+        ]
+      },
+      "id": "node/7140798486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7140800585",
+        "description": "PM de rattachement : SRO-BPI-4725516 (PM18)\n",
+        "location": "outdoor",
+        "operator": "SFR",
+        "ref": "PB13",
+        "support": "pole",
+        "survey:date": "2020-01-18",
+        "telecom": "distribution_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9131706,
+          47.9319115
+        ]
+      },
+      "id": "node/7140800585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7140804185",
+        "description": "PM de rattachement : SRO-BPI-6501898 (PM04)",
+        "location": "outdoor",
+        "operator": "SFR",
+        "ref": "PB33",
+        "support": "pole",
+        "survey:date": "2020-01-18",
+        "telecom": "distribution_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9150704,
+          47.9360909
+        ]
+      },
+      "id": "node/7140804185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7140807985",
+        "description": "PM de rattachement : SRO-BPI-6501898 (PM04)",
+        "location": "outdoor",
+        "operator": "SFR",
+        "ref": "PB39",
+        "support": "pole",
+        "survey:date": "2020-01-18",
+        "telecom": "distribution_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9149268,
+          47.9356953
+        ]
+      },
+      "id": "node/7140807985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7140807986",
+        "description": "PM de rattachement : SRO-BPI-6501898 (PM04)",
+        "location": "outdoor",
+        "operator": "SFR",
+        "ref": "PB32",
+        "support": "pole",
+        "survey:date": "2020-01-18",
+        "telecom": "distribution_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9153421,
+          47.9360349
+        ]
+      },
+      "id": "node/7140807986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7140811385",
+        "description": "PM de rattachement : SRO-BPI-6501898 (PM04)",
+        "location": "outdoor",
+        "operator": "SFR",
+        "ref": "PB31",
+        "support": "pole",
+        "survey:date": "2020-01-18",
+        "telecom": "distribution_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9159442,
+          47.9359108
+        ]
+      },
+      "id": "node/7140811385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7140811386",
+        "description": "PM de rattachement : SRO-BPI-6501898 (PM04)",
+        "location": "outdoor",
+        "operator": "SFR",
+        "ref": "PB30",
+        "support": "pole",
+        "survey:date": "2020-01-18",
+        "telecom": "distribution_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9171254,
+          47.9356855
+        ]
+      },
+      "id": "node/7140811386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7140811387",
+        "description": "PM de rattachement : SRO-BPI-6584456 (PM07),\nBPO12O-BPO13E-72FO\nBPO13O-BPO14E-72FO",
+        "location": "outdoor",
+        "operator": "SFR",
+        "ref": "PB13",
+        "support": "pole",
+        "survey:date": "2020-01-18",
+        "telecom": "distribution_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9077965,
+          47.9359914
+        ]
+      },
+      "id": "node/7140811387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7140817185",
+        "description": "PM de rattachement : SRO-BPI-6584456 (PM07),\nPBO13O-PBO14E-72FO\n",
+        "location": "outdoor",
+        "operator": "SFR",
+        "ref": "PB14",
+        "support": "pole",
+        "survey:date": "2020-01-18",
+        "telecom": "distribution_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9082555,
+          47.936057
+        ]
+      },
+      "id": "node/7140817185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7140821585",
+        "description": "PM de rattachement : SRO-BPI-6584456 (PM07),\nBPO11O-BPO12E-72FO\nBPO12O-BPO13E-72FO",
+        "location": "outdoor",
+        "operator": "SFR",
+        "ref": "PB12",
+        "support": "pole",
+        "survey:date": "2020-01-18",
+        "telecom": "distribution_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9068686,
+          47.9358728
+        ]
+      },
+      "id": "node/7140821585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7140821586",
+        "description": "PM de rattachement : SRO-BPI-6584456 (PM07),\nBPO09O-BPO10E-72FO\nBPO10O-BPO11E-72FO\nZM2119-4140\n",
+        "location": "outdoor",
+        "operator": "SFR",
+        "ref": "PB10",
+        "support": "pole",
+        "survey:date": "2020-01-18",
+        "telecom": "distribution_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9053883,
+          47.9354612
+        ]
+      },
+      "id": "node/7140821586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7140822785",
+        "description": "PM de rattachement : SRO-BPI-6584456 (PM07),\nBPO10O-BPO11E-72FO\nBPO11O-BPO12E-72FO",
+        "location": "outdoor",
+        "operator": "SFR",
+        "ref": "PB11",
+        "support": "pole",
+        "survey:date": "2020-01-18",
+        "telecom": "distribution_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9062085,
+          47.935733
+        ]
+      },
+      "id": "node/7140822785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7140822786",
+        "description": "PM de rattachement : SRO-BPI-6584456 (PM07),\nPBO07O-PBO08E-24FO",
+        "location": "outdoor",
+        "operator": "SFR",
+        "ref": "PB08",
+        "support": "pole",
+        "survey:date": "2020-01-18",
+        "telecom": "distribution_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9049303,
+          47.9353449
+        ]
+      },
+      "id": "node/7140822786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7140826385",
+        "description": "PM de rattachement : SRO-BPI-6584456 (PM07),\nBPE88O-PBO07E-24FO\nPBO07O-PBO08E-24FO\n",
+        "location": "outdoor",
+        "operator": "SFR",
+        "ref": "PB07",
+        "support": "pole",
+        "survey:date": "2020-01-18",
+        "telecom": "distribution_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9044917,
+          47.9353464
+        ]
+      },
+      "id": "node/7140826385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7141086370",
+        "location": "outdoor",
+        "operator": "Orange",
+        "ref": "NC",
+        "support": "wall_mounted",
+        "telecom": "distribution_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7033302,
+          44.9533621
+        ]
+      },
+      "id": "node/7141086370"
     }
   ]
 }
