@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-01-19T19:02:02Z",
+  "timestamp": "2020-01-20T17:34:02Z",
   "features": [
     {
       "type": "Feature",
@@ -5543,6 +5543,135 @@
         ]
       },
       "id": "node/7126566558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7146870004",
+        "name": "CHB28",
+        "operator": "Free",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4910864,
+          48.4357567
+        ]
+      },
+      "id": "node/7146870004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7146882245",
+        "description": "NRO FREE MAR81",
+        "operator": "Free",
+        "ref": "MAR81",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0293052,
+          43.9150779
+        ]
+      },
+      "id": "node/7146882245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7146882246",
+        "description": "NRO FREE JOF81",
+        "operator": "Free",
+        "ref": "JOF81",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1406342,
+          43.9235194
+        ]
+      },
+      "id": "node/7146882246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7146882247",
+        "description": "NRO FREE LAP81",
+        "operator": "Free",
+        "ref": "LAP81",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1573489,
+          43.9442315
+        ]
+      },
+      "id": "node/7146882247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7146906895",
+        "name": "BLO41",
+        "operator": "Free",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3459465,
+          47.5938477
+        ]
+      },
+      "id": "node/7146906895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7146909101",
+        "name": "TOU37",
+        "operator": "Free",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6864901,
+          47.3902703
+        ]
+      },
+      "id": "node/7146909101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7146942664",
+        "name": "SOU45",
+        "operator": "Free",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9336098,
+          47.8338628
+        ]
+      },
+      "id": "node/7146942664"
     }
   ]
 }
