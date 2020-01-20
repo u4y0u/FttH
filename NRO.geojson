@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-01-20T17:34:02Z",
+  "timestamp": "2020-01-20T18:51:02Z",
   "features": [
     {
       "type": "Feature",
@@ -5031,6 +5031,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6457452079",
+        "name": "SOU45",
         "operator": "Orange",
         "ref:FR:Orange": "45234SOU",
         "telecom": "exchange",
@@ -5039,8 +5040,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.9335064,
-          47.8339742
+          1.9335493,
+          47.833931
         ]
       },
       "id": "node/6457452079"
@@ -5229,13 +5230,11 @@
       "properties": {
         "@id": "node/6931324685",
         "building": "service",
-        "man_made": "street_cabinet",
-        "name": "EU1",
+        "name": "EU141",
         "operator": "Orange",
         "owner": "Orange",
-        "ref:FR:PTT": "EU1",
+        "ref:FR:PTT": "EU141",
         "ref:FR:PTT:NRA": "41018EU1",
-        "street_cabinet": "telecom",
         "survey:date": "2019-10-30",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -5622,24 +5621,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7146906895",
-        "name": "BLO41",
-        "operator": "Free",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.3459465,
-          47.5938477
-        ]
-      },
-      "id": "node/7146906895"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/7146909101",
         "name": "TOU37",
         "operator": "Free",
@@ -5658,20 +5639,21 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7146942664",
-        "name": "SOU45",
-        "operator": "Free",
+        "@id": "node/7147031276",
+        "name": "FR141",
+        "operator": "Orange",
+        "ref:FR:Orange": "FR141",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.9336098,
-          47.8338628
+          1.3290134,
+          47.5914017
         ]
       },
-      "id": "node/7146942664"
+      "id": "node/7147031276"
     }
   ]
 }
