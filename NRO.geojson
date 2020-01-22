@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-01-22T13:59:02Z",
+  "timestamp": "2020-01-22T14:46:02Z",
   "features": [
     {
       "type": "Feature",
@@ -6906,6 +6906,120 @@
         ]
       },
       "id": "node/7151419827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7151460054",
+        "name": "CHE77",
+        "operator": "Orange",
+        "ref:FR:Orange": "77108CHE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6107301,
+          48.8922803
+        ]
+      },
+      "id": "node/7151460054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7151466944",
+        "name": "LOG77",
+        "operator": "Orange",
+        "ref:FR:Orange": "77258LOG",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6286131,
+          48.8380269
+        ]
+      },
+      "id": "node/7151466944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7151469275",
+        "name": "MEA77",
+        "operator": "Orange",
+        "ref:FR:Orange": "77284MEA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9000243,
+          48.9519479
+        ]
+      },
+      "id": "node/7151469275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7151493945",
+        "name": "MON45",
+        "operator": "Orange",
+        "ref:FR:Orange": "45208MON",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7322713,
+          48.0002132
+        ]
+      },
+      "id": "node/7151493945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7151506554",
+        "name": "GIE45",
+        "operator": "Orange",
+        "ref:FR:Orange": "45155GIE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6280929,
+          47.686153
+        ]
+      },
+      "id": "node/7151506554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7151527295",
+        "name": "PIH45",
+        "operator": "Orange",
+        "ref:FR:Orange": "45252PIH",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2430866,
+          48.18312
+        ]
+      },
+      "id": "node/7151527295"
     }
   ]
 }
