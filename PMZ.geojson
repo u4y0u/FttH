@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-01-21T15:02:02Z",
+  "timestamp": "2020-01-23T10:40:02Z",
   "features": [
     {
       "type": "Feature",
@@ -3663,50 +3663,6 @@
         ]
       },
       "id": "node/4708822750"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/4708822751",
-        "man_made": "street_cabinet",
-        "operator": "Orange",
-        "ref": "NOR PT 0291",
-        "ref:FR:Orange": "PT0291",
-        "ref:FR:Orange:NRO": "87085NOR",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.262823,
-          45.8357467
-        ]
-      },
-      "id": "node/4708822751"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/4708822752",
-        "man_made": "street_cabinet",
-        "operator": "Orange",
-        "ref": "NOR PT 0290",
-        "ref:FR:Orange": "PT0290",
-        "ref:FR:Orange:NRO": "87085NOR",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.2628743,
-          45.8357615
-        ]
-      },
-      "id": "node/4708822752"
     },
     {
       "type": "Feature",
@@ -57264,7 +57220,7 @@
         "operator": "Orange",
         "ref:FR:ARCEP": "FI-87085-0020",
         "ref:FR:Orange": "PT0290",
-        "ref:FR:Orange:NRO": "NOR",
+        "ref:FR:Orange:NRO": "87085NOR",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre"
@@ -57287,7 +57243,7 @@
         "operator": "Orange",
         "ref:FR:ARCEP": "FI-87085-001W",
         "ref:FR:Orange": "PT0291",
-        "ref:FR:Orange:NRO": "NOR",
+        "ref:FR:Orange:NRO": "87085NOR",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre"
@@ -76646,6 +76602,1042 @@
         ]
       },
       "id": "node/7147459711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149730806",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-44109-00JF",
+        "ref:FR:Orange": "PT001847",
+        "ref:FR:Orange:NRO": "44109MAR",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5402317,
+          47.2431634
+        ]
+      },
+      "id": "node/7149730806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149730807",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-44109-00JE",
+        "ref:FR:Orange": "PT001848",
+        "ref:FR:Orange:NRO": "44109MAR",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5418893,
+          47.2441576
+        ]
+      },
+      "id": "node/7149730807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149730808",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-44109-00JG",
+        "ref:FR:Orange": "PT001846",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5400507,
+          47.2457208
+        ]
+      },
+      "id": "node/7149730808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149730809",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-44109-00J7",
+        "ref:FR:Orange": "PT001853",
+        "ref:FR:Orange:NRO": "44109MAR",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5341216,
+          47.2530746
+        ]
+      },
+      "id": "node/7149730809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149730810",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-44109-00JD",
+        "ref:FR:Orange": "PT001852",
+        "ref:FR:Orange:NRO": "44109MAR",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5321878,
+          47.2528161
+        ]
+      },
+      "id": "node/7149730810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149730811",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-44109-01GY",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5732054,
+          47.220489
+        ]
+      },
+      "id": "node/7149730811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149808495",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2614516,
+          45.8320538
+        ]
+      },
+      "id": "node/7149808495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149808496",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2614274,
+          45.832063
+        ]
+      },
+      "id": "node/7149808496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149813890",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2559362,
+          45.8312571
+        ]
+      },
+      "id": "node/7149813890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149813891",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.255916,
+          45.8312533
+        ]
+      },
+      "id": "node/7149813891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149818158",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2598092,
+          45.8327856
+        ]
+      },
+      "id": "node/7149818158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149818159",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2598336,
+          45.8327776
+        ]
+      },
+      "id": "node/7149818159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149823572",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2575711,
+          45.8335816
+        ]
+      },
+      "id": "node/7149823572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149823573",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2569502,
+          45.8342133
+        ]
+      },
+      "id": "node/7149823573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149825014",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2484591,
+          45.8332527
+        ]
+      },
+      "id": "node/7149825014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149825015",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2485885,
+          45.8332074
+        ]
+      },
+      "id": "node/7149825015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149831610",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2507666,
+          45.8445309
+        ]
+      },
+      "id": "node/7149831610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149831611",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2507985,
+          45.8445294
+        ]
+      },
+      "id": "node/7149831611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149831631",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2543296,
+          45.83129
+        ]
+      },
+      "id": "node/7149831631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149831632",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2557235,
+          45.8356415
+        ]
+      },
+      "id": "node/7149831632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149831953",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2525608,
+          45.852438
+        ]
+      },
+      "id": "node/7149831953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149831954",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2525825,
+          45.8524265
+        ]
+      },
+      "id": "node/7149831954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149838662",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2468391,
+          45.8336875
+        ]
+      },
+      "id": "node/7149838662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149838663",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.246852,
+          45.8337023
+        ]
+      },
+      "id": "node/7149838663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149843096",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2428339,
+          45.8427122
+        ]
+      },
+      "id": "node/7149843096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149843097",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2407177,
+          45.8448398
+        ]
+      },
+      "id": "node/7149843097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149843098",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2407449,
+          45.8448224
+        ]
+      },
+      "id": "node/7149843098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149843099",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.240763,
+          45.8448119
+        ]
+      },
+      "id": "node/7149843099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7152059584",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2551109,
+          45.8390122
+        ]
+      },
+      "id": "node/7152059584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7152061927",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2550424,
+          45.8423785
+        ]
+      },
+      "id": "node/7152061927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7152061928",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2557987,
+          45.8456497
+        ]
+      },
+      "id": "node/7152061928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7152061929",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2586333,
+          45.846018
+        ]
+      },
+      "id": "node/7152061929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7152061931",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.25662,
+          45.8441141
+        ]
+      },
+      "id": "node/7152061931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7152061932",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2586941,
+          45.8443885
+        ]
+      },
+      "id": "node/7152061932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7152061933",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.259155,
+          45.8428283
+        ]
+      },
+      "id": "node/7152061933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7152068521",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.249771,
+          45.8364079
+        ]
+      },
+      "id": "node/7152068521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7152068522",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2497842,
+          45.8364217
+        ]
+      },
+      "id": "node/7152068522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7152231431",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-44109-0044",
+        "ref:FR:Orange": "PT002676",
+        "ref:FR:Orange:NRO": "44109LGP",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5757549,
+          47.2566529
+        ]
+      },
+      "id": "node/7152231431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7152231432",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-44109-0047",
+        "ref:FR:Orange": "PT002675",
+        "ref:FR:Orange:NRO": "44109LGP",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.578311,
+          47.2578125
+        ]
+      },
+      "id": "node/7152231432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7152231433",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-44109-004D",
+        "ref:FR:Orange": "PT002672",
+        "ref:FR:Orange:NRO": "44109LGP",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5809986,
+          47.2595564
+        ]
+      },
+      "id": "node/7152231433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7152231434",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-44109-004C",
+        "ref:FR:Orange": "PT002673",
+        "ref:FR:Orange:NRO": "44109LGP",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5826884,
+          47.2616061
+        ]
+      },
+      "id": "node/7152231434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7152231435",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-44109-008D",
+        "ref:FR:Orange": "PT002681",
+        "ref:FR:Orange:NRO": "44109LGP",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5796414,
+          47.2629367
+        ]
+      },
+      "id": "node/7152231435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7152231436",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-44109-008G",
+        "ref:FR:Orange": "PT002684",
+        "ref:FR:Orange:NRO": "44109LGP",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5761572,
+          47.2619956
+        ]
+      },
+      "id": "node/7152231436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7152231437",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-44109-009E",
+        "ref:FR:Orange": "PT001845",
+        "ref:FR:Orange:NRO": "44109LGP",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5642214,
+          47.2585152
+        ]
+      },
+      "id": "node/7152231437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7152231438",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-44109-00JH",
+        "ref:FR:Orange": "PT002762",
+        "ref:FR:Orange:NRO": "44109LGP",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5579504,
+          47.2559611
+        ]
+      },
+      "id": "node/7152231438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7152385466",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-44109-008E",
+        "ref:FR:Orange:NRO": "44109LGP",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5766454,
+          47.2658781
+        ]
+      },
+      "id": "node/7152385466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7152385467",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-44109-008C",
+        "ref:FR:Orange:NRO": "44109LGP",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5737298,
+          47.266001
+        ]
+      },
+      "id": "node/7152385467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7152444335",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-44109-004G",
+        "ref:FR:Orange:NRO": "44109LGP",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5710751,
+          47.256505
+        ]
+      },
+      "id": "node/7152444335"
     }
   ]
 }
