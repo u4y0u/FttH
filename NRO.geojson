@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-01-22T17:32:02Z",
+  "timestamp": "2020-01-23T08:50:02Z",
   "features": [
     {
       "type": "Feature",
@@ -7533,6 +7533,215 @@
         ]
       },
       "id": "node/7151913161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7151936819",
+        "name": "RIV42",
+        "operator": "Orange",
+        "ref:FR:Orange": "42186RIV",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6234273,
+          45.5308979
+        ]
+      },
+      "id": "node/7151936819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7153126463",
+        "name": "STD52",
+        "operator": "Orange",
+        "ref:FR:Orange": "52448STD",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9540834,
+          48.638661
+        ]
+      },
+      "id": "node/7153126463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7153144699",
+        "name": "CHT52",
+        "operator": "Orange",
+        "ref:FR:Orange": "52121CHT",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1381634,
+          48.1095811
+        ]
+      },
+      "id": "node/7153144699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7153152045",
+        "name": "GAY70",
+        "operator": "Orange",
+        "ref:FR:Orange": "70279GAY",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5857761,
+          47.4491202
+        ]
+      },
+      "id": "node/7153152045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7153154971",
+        "name": "BRE70",
+        "operator": "Orange",
+        "ref:FR:Orange": "70550BRE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1454586,
+          47.6201703
+        ]
+      },
+      "id": "node/7153154971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7153157501",
+        "name": "STP25",
+        "operator": "Orange",
+        "ref:FR:Orange": "25056STP",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0283381,
+          47.2402808
+        ]
+      },
+      "id": "node/7153157501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7153173335",
+        "name": "JUS25",
+        "operator": "Orange",
+        "ref:FR:Orange": "25056JUS",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0096147,
+          47.2583703
+        ]
+      },
+      "id": "node/7153173335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7153191456",
+        "name": "CHA25",
+        "operator": "Orange",
+        "ref:FR:Orange": "25056CHA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0300658,
+          47.2480598
+        ]
+      },
+      "id": "node/7153191456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7153303384",
+        "name": "PTR25",
+        "operator": "Orange",
+        "ref:FR:Orange": "25462PTR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3556037,
+          46.9011784
+        ]
+      },
+      "id": "node/7153303384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7153350197",
+        "name": "PLA25",
+        "operator": "Orange",
+        "ref:FR:Orange": "25056PLA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9814515,
+          47.2291091
+        ]
+      },
+      "id": "node/7153350197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7153370498",
+        "name": "SCX25",
+        "operator": "Orange",
+        "ref:FR:Orange": "25547SCX",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8330666,
+          47.5162739
+        ]
+      },
+      "id": "node/7153370498"
     }
   ]
 }
