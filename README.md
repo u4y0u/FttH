@@ -2,13 +2,13 @@
 
 FttH : NRO et PMZ (France)
 
-3 fichiers au format .geoson - NRO.geoson, PMZ.geoson et PTO.geoson.
+3 fichiers au format .geoson - NRO.geoson, PMZ.geoson et PTO.geoson utilisables sur framacarte ou QGIS par exemple.
 
 FttH France - carte des emplacements des NRO (Nœud Raccordement Optique) et des PMZ (Point de Mutualisation de Zone).
 
 jeu de données extrait de OpenStreetMap® - ensemble de données ouvertes, disponibles sous la licence libre Open Data Commons Open Database License (ODbL) accordée par la Fondation OpenStreetMap (OSMF).
 
- Aperçu des données sur la carte interactive :
+Aperçu des données sur la carte interactive :
 
 [https://framacarte.org/m/65687/](https://framacarte.org/m/65687/)
 
