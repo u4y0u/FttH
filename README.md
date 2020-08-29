@@ -17,4 +17,4 @@ Aperçu des données sur la carte interactive :
 
 ![](https://user-images.githubusercontent.com/54479065/90337182-1e776c00-dfe1-11ea-96ee-2659a3cfb5c7.png)
 
-Version du 16/08/2020 et update .geojson (voir projet ZAPM FRANCE NRO PMZ)
+Version du 28/08/2020 et update .geojson (voir projet ZAPM FRANCE NRO PMZ)
