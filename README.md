@@ -1,10 +1,10 @@
-# FttH
+# FttH - (projet remplacé par le [ZAPM FRANCE NRO PMZ](https://github.com/u4y0u/ZAPM_FRANCE_NRO_PMZ) )
 
 FttH : NRO et PMZ (France)
 
 3 fichiers au format .geoson - NRO.geoson, PMZ.geoson et PTO.geoson utilisables sur framacarte ou QGIS par exemple.
 
-ATTENTION: 2 fichiers déplacés dans le projet ZAPM FRANCE NRO PMZ
+## **ATTENTION: 2 fichiers déplacés dans le projet ZAPM FRANCE NRO PMZ**  
 https://github.com/u4y0u/ZAPM_FRANCE_NRO_PMZ
 
 FttH France - carte des emplacements des NRO (Nœud Raccordement Optique) et des PMZ (Point de Mutualisation de Zone).
